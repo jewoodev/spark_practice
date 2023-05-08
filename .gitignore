@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+Hadoop
+PlayData
+spark-2.4.8-bin-hadoop2.7
+Pipfile
+Pipfile.lock
